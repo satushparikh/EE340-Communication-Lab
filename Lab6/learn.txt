@@ -1,0 +1,7 @@
+qt gui range to vary slider
+
+divide in0 a in1 b out a/b
+
+constant source to generate scalar values
+
+throttle is very important don't forget it
